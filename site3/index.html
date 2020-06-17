@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="main.css">
+    <title>Login and signup</title>
+</head>
+<body>
+    <section>
+        <div class="container">
+            <div class="user singinBx">
+                <div class="imgBx"><img src="cover.jpg" alt=""></div>
+                <div class="formBx">
+                    <form>
+                        <h2>Sign in</h2>
+                        <input type="text" placeholder="Username">
+                        <input type="password" placeholder="Password">
+                        <input type="submit" value="Login">
+                        <p class="singup">Don't have an account <a href="#" onclick="toggleForm()">Sign Up.</a></p>
+                    </form>
+                </div>
+            </div>
+            <div class="user singupBx">
+                <div class="formBx">
+                    <form>
+                        <h2>Create an account</h2>
+                        <input type="text" placeholder="Username">
+                        <input type="email" placeholder="Email Address">
+                        <input type="password" placeholder="Create Password">
+                        <input type="password" placeholder="Confirm Password">
+                        <input type="submit" value="Sign Up">
+                        <p class="singup">Already have an account <a href="#" onclick="toggleForm()">Sign In.</a></p>
+                    </form>
+                </div>
+                <div class="imgBx"><img src="cover1.jpg" alt=""></div>
+            </div>
+        </div>
+    </section>
+    <script>
+        function toggleForm(){
+            let container = document.querySelector('.container')
+            container.classList.toggle('active')
+        }
+    </script>
+</body>
+</html>
