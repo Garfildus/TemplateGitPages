@@ -1,5 +1,4 @@
-# main https://garfildus.github.io/gitPage/
-##section Responsive Box Model FLEX https://garfildus.github.io/gitPage/site1/
+#Здесь можно посмотреть сайты, шаблоны секций на HTML и CSS
 
 | Url страницы | Описание |
 |-------------:|:--------:|
