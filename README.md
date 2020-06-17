@@ -5,3 +5,4 @@
 |-------------:|:--------:|:--------:|
 |https://garfildus.github.io/TemplateGitPages/|Сайт|Главная страница|
 |https://garfildus.github.io/TemplateGitPages/site1/ |Секция|Верстка адаптивной секции с картами на FLEX |
+|https://garfildus.github.io/TemplateGitPages/site2/ |Секция|3D background CSS |
