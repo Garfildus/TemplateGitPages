@@ -4,4 +4,4 @@
 | Url страницы | Описание |
 |-------------:|:--------:|
 |https://garfildus.github.io/gitPage/|Главная страница|
-| https://garfildus.github.io/gitPage/site1/ | Верстка адаптивной секции на FLEX |
+| https://garfildus.github.io/gitPage/site1/ | Верстка адаптивной <section> с картами на FLEX |
