@@ -1,6 +1,8 @@
 Здесь можно посмотреть сайты, шаблоны верстки на HTML и CSS
 ===============================
-[Главная страница](https://garfildus.github.io/TemplateGitPages/)
+[Страница с превью](https://garfildus.github.io/TemplateGitPages/)
+
+
 Секции
 ----------
 | Url | Описание |
