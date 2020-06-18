@@ -9,3 +9,7 @@
 |https://garfildus.github.io/TemplateGitPages/site3/ |Login/signup |
 |https://garfildus.github.io/TemplateGitPages/site4/ |Navbar glass |
 |https://garfildus.github.io/TemplateGitPages/site5/ |Прогресс анимация скролл бара |
+
+| Url | Описание |
+|-------------:|:--------:|
+|https://garfildus.github.io/TemplateGitPages/site6/ |Адаптивный лендинг (flex) |
