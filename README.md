@@ -1,7 +1,7 @@
 Здесь можно посмотреть сайты, шаблоны верстки на HTML и CSS
 ----------------------------------
 [Главная страница](https://garfildus.github.io/TemplateGitPages/)
-
+|Секции|
 | Url | Описание |
 |-------------:|:--------:|
 |https://garfildus.github.io/TemplateGitPages/site1/ |Верстка адаптивной секции с картами на FLEX |
@@ -10,6 +10,7 @@
 |https://garfildus.github.io/TemplateGitPages/site4/ |Navbar glass |
 |https://garfildus.github.io/TemplateGitPages/site5/ |Прогресс анимация скролл бара |
 
+|Сайты|
 | Url | Описание |
 |-------------:|:--------:|
 |https://garfildus.github.io/TemplateGitPages/site6/ |Адаптивный лендинг (flex) |
