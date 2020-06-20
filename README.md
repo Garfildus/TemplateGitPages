@@ -12,6 +12,7 @@
 |https://garfildus.github.io/TemplateGitPages/site3/ |Login/signup |
 |https://garfildus.github.io/TemplateGitPages/site4/ |Navbar glass |
 |https://garfildus.github.io/TemplateGitPages/site5/ |Прогресс анимация скролл бара |
+|https://garfildus.github.io/TemplateGitPages/site7/ |Адаптивный Navbar |
 
 Сайты
 --------
