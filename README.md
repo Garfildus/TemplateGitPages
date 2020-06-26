@@ -19,3 +19,4 @@
 | Url | Описание |
 |-------------:|:--------:|
 |https://garfildus.github.io/TemplateGitPages/site6/ |Адаптивный лендинг (flex) |
+|https://garfildus.github.io/TemplateGitPages/site8/ |Адаптивный лендинг (flex) |
