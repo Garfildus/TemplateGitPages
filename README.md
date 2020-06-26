@@ -18,5 +18,5 @@
 --------
 | Url | Описание |
 |-------------:|:--------:|
-|https://garfildus.github.io/TemplateGitPages/site6/ |Адаптивный лендинг |
-|https://garfildus.github.io/TemplateGitPages/site8/ |Адаптивный лендинг |
+|https://garfildus.github.io/TemplateGitPages/site6/ |Адаптивный лендинг 1|
+|https://garfildus.github.io/TemplateGitPages/site8/ |Адаптивный лендинг 2|
